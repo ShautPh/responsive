@@ -14,7 +14,7 @@ section{
     box-sizing: border-box;
     padding: 10px;
     border-radius: 8px;
-    border-top: 8px solid #ff0000;
+    border-top: 8px solid yellow;
     box-shadow: 2px 4px 6px 1px #aaa;
     margin-bottom: 1rem;
 }
